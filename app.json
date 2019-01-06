@@ -1,0 +1,7 @@
+{
+  "name": "tweet2meural",
+  "description": "Use twitter to send pictures to your Meural Canvas!",
+  "repository": "https://github.com/evantahler/tweet2meural",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "meural", "twitter"]
+}
