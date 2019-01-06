@@ -1,4 +1,4 @@
-#tweet2meural
+# tweet2meural
 
 Use twitter to send pictures to your [Meural](https://www.meural.com) Canvas!
 
@@ -10,7 +10,9 @@ Use twitter to send pictures to your [Meural](https://www.meural.com) Canvas!
 
 Now any tweet with an image attachment which contains the hashtag you set in `TWITTER_TAG` will be sent to a new playlist for your Meural Canvas!
 
-This application is a Dameon, not a web application. 
+This application is a Dameon, not a web application.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/evantahler/tweet2meural)
 
 ## Notes
 * When you shut down the process, all uploaded images to Meural will be deleted and the playlist deleted as well.
